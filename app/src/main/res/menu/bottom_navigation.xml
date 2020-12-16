@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item   android:id="@+id/video"
+        android:title="Video"
+        android:enabled="true"
+        android:icon="@drawable/ic_video"/>
+
+<item   android:id="@+id/notification"
+        android:title="Notification"
+        android:enabled="true"
+        android:icon="@drawable/ic_notification"/>
+</menu>
