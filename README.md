@@ -1,5 +1,5 @@
 # VideoRecorder
-# Technology used : 1. Android Studio 2. Firebase Database 3. Java
+## Technology used : 1. Android Studio 2. Firebase Database 3. Java
 
 This application is user side only users will interact with this application.
 
